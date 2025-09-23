@@ -18,7 +18,7 @@ Recursion is a programming technique where a function calls itself directly or i
 Base Case
 
 A condition that stops further recursive calls.
-Prevents infinite recursion and stack overflow.
+Prevents infinite recursion and stack overflow.  
 Recursive Case
 
 The step where the function calls itself with a reduced problem size.
